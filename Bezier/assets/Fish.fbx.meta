@@ -1,0 +1,123 @@
+{
+  "ver": "1.3.21",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d95a4bc0-511f-45f4-b52f-3e8beaa90856",
+  "files": [],
+  "subMetas": {
+    "e10e4": {
+      "importer": "gltf-mesh",
+      "uuid": "d95a4bc0-511f-45f4-b52f-3e8beaa90856@e10e4",
+      "displayName": "",
+      "id": "e10e4",
+      "name": "立方体.mesh",
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "9881e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d95a4bc0-511f-45f4-b52f-3e8beaa90856@9881e",
+      "displayName": "",
+      "id": "9881e",
+      "name": "colorTexture.png.image",
+      "ver": "1.0.2",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "d95a4bc0-511f-45f4-b52f-3e8beaa90856@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "ver": "1.0.19",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d95a4bc0-511f-45f4-b52f-3e8beaa90856@9881e"
+      }
+    },
+    "22e2a": {
+      "importer": "gltf-material",
+      "uuid": "d95a4bc0-511f-45f4-b52f-3e8beaa90856@22e2a",
+      "displayName": "",
+      "id": "22e2a",
+      "name": "材质.material",
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    },
+    "c4e12": {
+      "importer": "gltf-scene",
+      "uuid": "d95a4bc0-511f-45f4-b52f-3e8beaa90856@c4e12",
+      "displayName": "",
+      "id": "c4e12",
+      "name": "Fish.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "colorTexture.png",
+        "uri": "d95a4bc0-511f-45f4-b52f-3e8beaa90856@9881e"
+      }
+    ],
+    "redirect": "d95a4bc0-511f-45f4-b52f-3e8beaa90856@c4e12",
+    "assetFinder": {
+      "meshes": [
+        "d95a4bc0-511f-45f4-b52f-3e8beaa90856@e10e4"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d95a4bc0-511f-45f4-b52f-3e8beaa90856@7d6ab"
+      ],
+      "materials": [
+        "d95a4bc0-511f-45f4-b52f-3e8beaa90856@22e2a"
+      ],
+      "scenes": [
+        "d95a4bc0-511f-45f4-b52f-3e8beaa90856@c4e12"
+      ]
+    }
+  }
+}
